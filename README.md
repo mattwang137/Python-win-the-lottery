@@ -13,3 +13,9 @@
     win = 大樂透官方公布的6個得獎號碼</br>
     winS = 大樂透官方公布的得獎的特別號碼</br>
     total = 得獎的號碼</br>
+
+# ---------------------------------
+
+python-pyqt-taiwan-lottery.py 為幫樂透程式加上PyQt介面
+Python環境: 3.6.8 64-bit
+PyQt版本: PyQt4
